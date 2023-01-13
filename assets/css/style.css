@@ -182,7 +182,7 @@
 
 .section-about {
   max-width: 100rem;
-  margin: 0 auto ;
+  margin: 0 auto;
   background-color: #fff;
   gap: 4rem;
   padding: 2.5rem 7rem 6.5rem 7rem;
@@ -246,57 +246,57 @@
   background-color: #000;
   grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
 }
-.logo-col{
+.logo-col {
   display: flex;
   flex-direction: column;
 }
-.footer-logo{
+.footer-logo {
   display: block;
   padding-bottom: 3.2rem;
 }
-.social-icons{
+.social-icons {
   display: flex;
   gap: 2.4rem;
 }
-.social-icon{
+.social-icon {
   display: block !important;
   width: 2.4rem;
   height: 2.4rem;
   color: #bbb;
-  transition: all .3s;
+  transition: all 0.3s;
 }
-.social-icon:hover{
+.social-icon:hover {
   color: #75c044;
 }
-.copyright{
+.copyright {
   font-size: 1.4rem;
   line-height: 1.6;
   margin-top: auto;
   color: #555;
 }
-.footer-heading{
+.footer-heading {
   margin-bottom: 4rem !important;
   color: #eee;
 }
-.contact{
+.contact {
   font-size: 1.6rem;
   line-height: 1.6;
 }
-.address{
+.address {
   color: #bbb;
   margin-bottom: 2.4rem;
   font-style: normal;
 }
-.footer-link{
+.footer-link {
   display: block;
   font-style: normal;
   color: #bbb;
-  transition: all .3s;
+  transition: all 0.3s;
 }
-.footer-link:hover{
+.footer-link:hover {
   color: #fff;
 }
-.footer-nav{
+.footer-nav {
   display: flex;
   flex-direction: column;
   gap: 1rem;
