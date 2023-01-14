@@ -23,7 +23,7 @@ tabContainer.addEventListener("click", function (e) {
         .classList.add("operation__content--active");
 });
 
-// IMPLEMENTING SMOOTH SCROLLING
+// IMPLEMENTING SMOOTH SCROLLING IN THE NAVBAR LINKS
 navLinks.addEventListener("click", function (e) {
     e.preventDefault();
     const clicked = e.target.getAttribute("href");

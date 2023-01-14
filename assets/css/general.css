@@ -67,6 +67,9 @@
   .grid--2--cols{
     grid-template-columns: 1fr 1fr;
   }
+  .grid--3--cols{
+    grid-template-columns: 1fr 1fr 1fr;
+  }
   .section{
     padding: 15rem 3rem;
     border-top: 1px solid #ddd;
