@@ -218,7 +218,7 @@
   justify-self: center;
 }
 .service-img{
-  /* width: 80%; */
+  width: 100%;
 }
 .service-box{
   padding-top: .8rem;
